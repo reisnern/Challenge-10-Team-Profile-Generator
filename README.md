@@ -40,13 +40,13 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Screenshot
-<img src="assets/images/README-screenshot.png" alt="screenshot">
+<img src="assets/images/Screen shot 2021-05-23 att 11.58.58 png" alt="screenshot">
 
 ## Demo
-[Walkthrough Video](https://iamalittleforest.github.io/10-team-profile-generator/assets/images/README-walkthrough.mp4)
+
 
 ## License
 MIT License
 
 ## Contact Information
-Wendy Kobayashi (<wykobayashi@gmail.com>)
+Nickolas Reisner (nickolas.reisner92@gmail.com)
