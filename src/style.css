@@ -1,0 +1,28 @@
+.header-font {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.name-font {
+  font-family: 'Roboto Slab', serif;
+}
+
+.header-bg {
+  background-color: #6930c3;
+}
+
+.manager-bg {
+  background-color: #5390d9;
+}
+
+.engineer-bg {
+  background-color: #48bfe3;
+}
+
+.intern-bg {
+  background-color: #64dfdf;
+}
+
+.body-bg {
+  background-color: #e5e5e5;
+}
