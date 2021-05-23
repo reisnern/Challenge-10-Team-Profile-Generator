@@ -40,7 +40,7 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Screenshot
-<img src="assets/images/Screen shot 2021-05-23 att 11.58.58 png" alt="screenshot">
+Screen Shot 2021-05-23 at 11.58.58 AM![Uploading image.png…](
 
 ## Demo
 
