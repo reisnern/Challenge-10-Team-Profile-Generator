@@ -40,7 +40,7 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Screenshot
-Screen Shot 2021-05-23 at 11.58.58 AM![Uploading image.png…](
+Screen Shot 2021-05-23 at 11.58.58 AM![image](https://user-images.githubusercontent.com/77903140/119272097-994d6300-bbc1-11eb-9bdd-942e3f031a15.png)
 
 ## Demo
 
